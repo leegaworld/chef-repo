@@ -1,0 +1,14 @@
+DEPENDENCIES
+  mariadb
+    path: .
+    metadata: true
+
+GRAPH
+  apt (3.0.0)
+  mariadb (0.3.1)
+    apt (>= 0.0.0)
+    yum (>= 0.0.0)
+    yum-epel (>= 0.0.0)
+  yum (3.10.0)
+  yum-epel (0.6.6)
+    yum (~> 3.10.0)
