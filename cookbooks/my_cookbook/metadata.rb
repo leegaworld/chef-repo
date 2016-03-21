@@ -5,6 +5,3 @@ license          'All rights reserved'
 description      'Installs/Configures my_cookbook'
 long_description 'Installs/Configures my_cookbook'
 version          '0.1.0'
-
-#depends 'build-essential'
-#depends 'apache2', '>= 1.0.4'

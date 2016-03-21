@@ -18,3 +18,11 @@ template '/etc/nodeMeta.info' do
     comment: node['fqdn']
   )
 end
+
+meta_file = '/etc/nodeMeta.info'
+
+file meta_file do
+  owner "root"
+  group "root"
+  mode "644"
+end
