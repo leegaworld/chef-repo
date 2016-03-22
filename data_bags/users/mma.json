@@ -1,0 +1,8 @@
+{
+  "id": "mma",
+  "ssh_keys": [
+    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDSx2IlaJkz6WP1MdTTQbfkgpgitJyk8CosAt4nZybe23CUjDTJR4Oig07zLx9Zoz4GZ5HDEDO/bbWPCPcUq7QCwOJyCT1oaoAoVjvj4vW8BnnpNUjToC3uCNjqUSgzMrZ/RQ6NQETArBayzNvQyDm2iBE6MiqZyEN48tZvMCX2xAuLq5Uqe8CO5XglynvLK6UKE+qtsdvjBXVokIcWp/XyrxssKuHxBv4mFLbaI9YKeDvvgag4m8FWRb2DxJ0DuEp6YeQKH0qMLmJffF9iT8cKooC+pj7m/9kqN5AHkrtd9MFg4NTQMvnDOxz1UQGNy5STOw9sCqgN9Ei1qnehnI6RYnHWZ6YoukIfYm/is+hTUgbLSU/BY/rReXldt/HVchRe+fcumIWLCR8H0eSjNl7npHv/BmJcE/TNK1NIY4igH3z8iFkzAkOS7mUh4rJWPaV+RYVPLuo6Rk/MgyA7KrKS9BVC+Tz+v9iIAULbbsUdrZZcMqC7rdZ9y4mXTlBkXK8biDAA3qvQN31c54SehekoFS+upLyl0qw0rJcZhVVkJ3Uu4exXt/BcmDPwkMDa6z2V8CyMBfUHMic04wkH1bFsYU8Jip+d2fPtEl3Ah8IjPb7ED/Ad8BQMD7Ayf+Sda0jmyOIvPv9n8FL+cQoAc2y9NsoLPe/lCv1WDSV9HpfFgw== your_email@example.com"    
+  ],
+  "groups": [ "staff"],
+  "chell": "\/bin\/bash"
+}

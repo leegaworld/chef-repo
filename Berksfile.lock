@@ -1,0 +1,8 @@
+DEPENDENCIES
+  data_bag_test
+    path: cookbooks/data_bag_test
+
+GRAPH
+  data_bag_test (0.1.0)
+    sudo (>= 0.0.0)
+  sudo (2.9.0)
