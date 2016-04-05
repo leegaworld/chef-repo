@@ -1,8 +1,9 @@
 DEPENDENCIES
-  data_bag_test
-    path: cookbooks/data_bag_test
+  ntp
 
 GRAPH
-  data_bag_test (0.1.0)
-    sudo (>= 0.0.0)
-  sudo (2.9.0)
+  chef_handler (1.3.0)
+  ntp (1.11.0)
+    windows (>= 1.38.0)
+  windows (1.39.2)
+    chef_handler (>= 0.0.0)
